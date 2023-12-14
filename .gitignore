@@ -2,6 +2,9 @@
 data/**
 !data/.gitkeep
 
+# Also img
+img/**
+
 #jupyter notebook checkpoints
 .ipynb_checkpoints
 
