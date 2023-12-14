@@ -2,6 +2,9 @@
 data/**
 !data/.gitkeep
 
+#jupyter notebook checkpoints
+.ipynb_checkpoints
+
 # Any folder in the project tree called 'ReferenceFiles' is ignored
 ReferenceFiles
 
