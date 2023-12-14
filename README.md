@@ -1,5 +1,5 @@
-# ProjectTemplate
-An empty project template to start with. Contains the directory structure:
+# Aqueous Humor Analysis
+snRNAseq data analysis with Seurat, PHATE, scverse, etc etc.
 
 
 ```
