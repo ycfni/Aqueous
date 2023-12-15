@@ -1,6 +1,18 @@
 # Aqueous Humor Analysis
 snRNAseq data analysis with Seurat, PHATE, scverse, etc etc.
 
+Start with:
+
+```
+conda activate Aqueous
+cd ~/Workspace/Aqueous/
+jupyter notebook 
+```
+
+Then in browser:
+
+Open/Create a notebook
+
 
 ```
 ProjectName_version
